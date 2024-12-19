@@ -58,7 +58,8 @@ cmdq-platform-mt6789.ko
 cmdq_helper_inf.ko
 mtk-mml.ko
 mtk_panel_ext.ko
-rm692d9_fhdp_dsi_cmd_edo_edo_90hz_lg8n.ko
+nt37703_fhdp_dsi_vdo_tm_panda_120hz_ck7n.ko
+vtdr6115_fhdp_dsi_vdo_csot_sg_120hz_ck7n.ko
 mediatek-drm.ko
 aee_rs.ko
 mmprofile.ko
@@ -91,6 +92,7 @@ blocktag.ko
 pidmap.ko
 mtk-pmic-keys.ko
 mtk-kpd.ko
+regulator-vibrator.ko
 i2c-mt65xx.ko
 rtc-mt6397.ko
 mt6789_dcm.ko
@@ -116,6 +118,7 @@ mtk_chg_type_det.ko
 mtk_pd_adapter.ko
 mtk_pep40.ko
 rfc_ta.ko
+tran_common_class.ko
 prop_ta_class.ko
 pca_rfc_ta.ko
 usb_switch.ko
@@ -132,6 +135,7 @@ mt6577_auxadc.ko
 mtk_charger_framework.ko
 rt_pd_manager.ko
 mt6358_battery.ko
+tran_otg.ko
 pwm-mtk-disp.ko
 leds-mtk.ko
 leds-mtk-disp.ko
@@ -162,3 +166,4 @@ tkv_recovery.ko
 tran_rhi.ko
 tran_fp.ko
 tran_expand_key.ko
+tran_auto_test.ko
