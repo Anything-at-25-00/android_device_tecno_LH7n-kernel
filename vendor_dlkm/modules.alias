@@ -6,8 +6,6 @@ alias of:N*T*Cfoursemi,fs16xx1 mtk_sp_spk_amp
 alias of:N*T*Cfoursemi,fs16xx1C* mtk_sp_spk_amp
 alias of:N*T*Cmediatek,speaker_amp mtk_sp_spk_amp
 alias of:N*T*Cmediatek,speaker_ampC* mtk_sp_spk_amp
-alias of:N*T*Cfocaltech,fts ft3681_common
-alias of:N*T*Cfocaltech,ftsC* ft3681_common
 alias of:N*T*Cmediatek,mt6357-battery_oc_throttling mtk_battery_oc_throttling
 alias of:N*T*Cmediatek,mt6357-battery_oc_throttlingC* mtk_battery_oc_throttling
 alias of:N*T*Cmediatek,mt6358-battery_oc_throttling mtk_battery_oc_throttling
@@ -16,6 +14,8 @@ alias of:N*T*Cmediatek,mt6359p-battery_oc_throttling mtk_battery_oc_throttling
 alias of:N*T*Cmediatek,mt6359p-battery_oc_throttlingC* mtk_battery_oc_throttling
 alias of:N*T*Cmediatek,mt6375-battery_oc_throttling mtk_battery_oc_throttling
 alias of:N*T*Cmediatek,mt6375-battery_oc_throttlingC* mtk_battery_oc_throttling
+alias of:N*T*Cmediatek,flashlights_aw36515 flashlights_aw36515
+alias of:N*T*Cmediatek,flashlights_aw36515C* flashlights_aw36515
 alias of:N*T*Cmediatek,mt6983-board-ntc board_temp
 alias of:N*T*Cmediatek,mt6983-board-ntcC* board_temp
 alias of:N*T*Cmediatek,mt6879-board-ntc board_temp
@@ -34,12 +34,12 @@ alias of:N*T*Cmediatek,mt6360-charger-cooler charger_cooling
 alias of:N*T*Cmediatek,mt6360-charger-coolerC* charger_cooling
 alias of:N*T*Cmediatek,mt6375-charger-cooler charger_cooling
 alias of:N*T*Cmediatek,mt6375-charger-coolerC* charger_cooling
+alias of:N*T*Cfocaltech,fts transsion_touch
+alias of:N*T*Cfocaltech,ftsC* transsion_touch
 alias of:N*T*Cmediatek,mtk-bp-thl mtk_bp_thl
 alias of:N*T*Cmediatek,mtk-bp-thlC* mtk_bp_thl
 alias of:N*T*Cmediatek,cpu-power-throttling mtk_cpu_power_throttling
 alias of:N*T*Cmediatek,cpu-power-throttlingC* mtk_cpu_power_throttling
-alias of:N*T*Cmediatek,flashlights_ocp81375 flashlights_ocp81375
-alias of:N*T*Cmediatek,flashlights_ocp81375C* flashlights_ocp81375
 alias of:N*T*Cmediatek,mt6873-lvts soc_temp_lvts
 alias of:N*T*Cmediatek,mt6873-lvtsC* soc_temp_lvts
 alias of:N*T*Cmediatek,mt6853-lvts soc_temp_lvts
@@ -229,6 +229,7 @@ alias of:N*T*Cmediatek,mt63xx-oc-debugC* mt63xx_oc_debug
 alias of:N*T*Cmediatek,gpufreq_wrapper mtk_gpufreq_wrapper
 alias of:N*T*Cmediatek,gpufreq_wrapperC* mtk_gpufreq_wrapper
 alias i2c:tfa9874 snd_soc_tfa98xx
+alias i2c:fshaptic fs3xxx_haptic
 alias platform:mtk-tpd gt9896s
 alias usbfunc:mtk_rndis mtk_usb_f_rndis
 alias of:N*T*Cmediatek,flashlight_core flashlight
@@ -286,6 +287,7 @@ alias of:N*T*Cmediatek,mtk-jpgenc-32bitC* mtk_jpeg
 alias of:N*T*Cmediatek,ged ged
 alias of:N*T*Cmediatek,gedC* ged
 alias usbfunc:via_modem c2k_usb_f_via_modem
+alias i2c:haptic_nv aw862xx_haptic
 alias i2c:cam_vdd_ext imgsensor_isp6s
 alias of:N*T*Cmediatek,cam_vdd_ext imgsensor_isp6s
 alias of:N*T*Cmediatek,cam_vdd_extC* imgsensor_isp6s

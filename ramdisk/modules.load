@@ -58,8 +58,9 @@ cmdq-platform-mt6789.ko
 cmdq_helper_inf.ko
 mtk-mml.ko
 mtk_panel_ext.ko
-nt37703_fhdp_dsi_vdo_tm_panda_120hz_ck7n.ko
-vtdr6115_fhdp_dsi_vdo_csot_sg_120hz_ck7n.ko
+tran_drm_panel_i2c.ko
+ili7807s_fhdp_dsi_vdo_dsc_txd_boe_120hz_lh7n.ko
+ft8726_fhdp_dsi_vdo_dsc_tm_tm_120hz_lh7n.ko
 mediatek-drm.ko
 aee_rs.ko
 mmprofile.ko
@@ -92,7 +93,6 @@ blocktag.ko
 pidmap.ko
 mtk-pmic-keys.ko
 mtk-kpd.ko
-regulator-vibrator.ko
 i2c-mt65xx.ko
 rtc-mt6397.ko
 mt6789_dcm.ko
