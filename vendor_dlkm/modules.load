@@ -164,14 +164,11 @@ transsion_touch.ko
 aw862xx_haptic.ko
 fs3xxx_haptic.ko
 nfc_i2c.ko
-transsion_resmonitor.ko
 transsion_tranlog.ko
 pnpmgr.ko
-tran_fre.ko
 look_around.ko
 shrink_slabd.ko
 lzo.ko
 lzo-rle.ko
-tran_perf_util.ko
 atomic_info.ko
 tnek.ko

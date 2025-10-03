@@ -193,7 +193,6 @@ transsion_tranlog.ko
 tran_expand_key.ko
 lzo.ko
 lzo-rle.ko
-tran_perf_util.ko
 atomic_info.ko
 tnek.ko
 tran_auto_test.ko
